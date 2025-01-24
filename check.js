@@ -7,4 +7,5 @@ const pro = (input) => {
     return uniqueWordsArray.join(',');
 };
 
+
 console.log(pro(inputString));
